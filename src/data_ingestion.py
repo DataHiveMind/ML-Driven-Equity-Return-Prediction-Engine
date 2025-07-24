@@ -1,3 +1,10 @@
+"""
+src/data_ingestion.py
+
+Purpose: 
+This file was created to 
+"""
+
 import pandas as pd 
 import yfinance as yf 
 
